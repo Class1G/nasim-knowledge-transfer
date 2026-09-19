@@ -65,3 +65,7 @@ entropy coefficient (0.1, 0.05, 0.001). Rollout steps and clipping range are fix
 All results are goal rates: the share of the 100 held-out test instances in which the
 target host is compromised to root access, measured under deterministic action
 selection at the end of the training budget.
+
+## Results
+
+Results can be found in the /results/ folder.
